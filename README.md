@@ -1,3 +1,6 @@
+# download 
+https://mailfud.org/geoip-legacy/
+
 # geolite2legacy
 
 This tool will convert MaxMind GeoLite2 Database to the old legacy format.
